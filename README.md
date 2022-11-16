@@ -6,7 +6,7 @@ I'm from Porto, and I'm currently enrolled in a university degree of Web Informa
 
 In my GitHub profile I'll be posting projects developed by me.
 
-Skills: PYTHON / JS / HTML / CSS
+Skills: PYTHON / JS / HTML / CSS / C++
 
 - 🔭 I’m currently working on Collegue Projects. 
 - 🌱 I’m currently learning Python and JavaScript. 

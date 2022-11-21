@@ -12,4 +12,3 @@ Skills: PYTHON / JS / HTML / CSS / C++
 - 🌱 I’m currently learning Python and JavaScript. 
 - 📫 How to reach me: n.mendonca@protonmail.com or nunodevmendonca@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnm-sdksdk&show_icons=true&theme=gruvbox)

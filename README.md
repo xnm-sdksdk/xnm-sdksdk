@@ -9,6 +9,6 @@ In my GitHub profile I'll be posting projects developed by me.
 Skills: PYTHON / JS / HTML / CSS / C++
 
 - 🔭 I’m currently working on Collegue Projects. 
-- 🌱 Putting effort to master Python and JavaScript. 
+- 🌱 Putting effort to master the art of code. 
 - 📫 How to reach me: n.mendonca@protonmail.com or nunodevmendonca@gmail.com
 

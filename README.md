@@ -6,7 +6,7 @@ I'm from Porto (Portugal), and I'm currently enrolled in a university degree of 
 
 In my GitHub profile I'll be posting projects developed by me.
 
-Skills: PYTHON / JS / HTML / CSS / C++
+Skills: PYTHON / JavaScript / HTML / CSS / C++ / NodeJS / ExpressJS
 
 - 🔭 I’m currently working on Collegue Projects. 
 - 🌱 Putting effort to master the art of code. 

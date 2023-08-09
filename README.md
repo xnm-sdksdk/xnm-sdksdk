@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xnm-sdksdk" alt="xnm-sdksdk" /></a> </p>
 
-- 🔭 I’m currently working on **Collegue Proejcts.**
+- 🔭 I’m currently working on **Collegue Projects.**
 
 - 🌱 I’m currently learning **React, Vue, Typescript, Mongoose.**
 

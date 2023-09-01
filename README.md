@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Nuno Mendonça</h1>
+<h1 align="center>Hi 👋 My name is Nuno Mendonça</h1>
 ==============================A dedicated aspiring young developer, with the mission of make my mark through coding.--------------------------------------------------------------------------------------I'm on a relentless journey to become a top-tier full-stack developer. Currently deep into my degree of information systems and technologies for the web, I'm gearing up for my third year of soaking up knowledge and honing my craft. My love affair with web development goes way beyond just writing code. It's about crafting seamless user experiences that captivate and inspire. With a solid foundation in both front-end and back-end development, I'm that versatile developer who can talk design and data with equal enthusiasm.* 🌍  I'm based in Porto* ✉️  You can contact me at [nunodevmendonca@gmail.com](mailto:nunodevmendonca@gmail.com)* 🧠  I'm learning Vue and TypeScript* 🤝  I'm open to collaborating on Interesting Project* ⚡  Time is valuable, make the most out of it.
 
 ### Skills

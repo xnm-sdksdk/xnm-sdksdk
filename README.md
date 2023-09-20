@@ -2,8 +2,8 @@
 <h1 align="center">Welcome, I'm Nuno Mendonça</h1>
 <h3 align="center">A dedicated aspiring young developer, with the mission of make my mark through coding.</h3>
 
-- 🌱 I’m currently learning **TypeScript, VueJS and ReactJS**
 - 📫 How to reach me **nunodevmendonca@gmail.com**
+- 🌱 I’m currently learning **TypeScript, VueJS and ReactJS**
 - ⚡ Fun fact **Time is valuable, make the most out of it.**
 
 <div> <a href="https://github.com/xnm-sdksdk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
